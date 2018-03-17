@@ -10,6 +10,13 @@
   height: 10%;
   z-index: 99;
 }
+
+.image {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
 .bg {
   position: absolute; 
   top: -40%; 
